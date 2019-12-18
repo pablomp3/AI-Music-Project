@@ -6,6 +6,6 @@ Final Group Project
 
 Content:
 
-A. MIDI Negative Harmonizer (from XML format converted to MIDI by MuseScore)
-B. Piano accompaniment chord generation
-C. Melody variation
+A. MIDI Negative Harmonizer (from XML format converted to MIDI by MuseScore)  
+B. Piano accompaniment chord generation  
+C. Melody variation  
